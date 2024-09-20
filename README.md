@@ -11,5 +11,5 @@ I’m a Computer Science student at the University of Kansas, passionate about s
 - **Other**: 3D Printing, Mechanical Design, Fusion360, SolidWorks
 
 ### 📫 **Get in touch with me**
-Email: lawalwaryth@gmail.com
-LinkedIn: linkedin.com/in/nifemi-lawal
+- **Email**: lawalwaryth@gmail.com
+- **LinkedIn**: linkedin.com/in/nifemi-lawal
