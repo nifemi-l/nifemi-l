@@ -1,8 +1,8 @@
-# Hello! 👋 I'm Nifemi Lawal
+# Hello! 👋 My name is Nifemi Lawal
 
 ### Welcome to my GitHub profile!
 
-I’m a Computer Science student at the University of Kansas, passionate about software engineering and technology innovation
+I’m a Computer Science student at the University of Kansas. I'm passionate about software engineering and technology innovation
 
 ### 🛠️ **Skills & Technologies**
 - **Programming Languages**: Python, C, C++, C#, PowerShell, SQL, JavaScript, HTML/CSS, MATLAB
