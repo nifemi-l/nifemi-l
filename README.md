@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile!
 
-I’m a Computer Science student at the University of Kansas. I'm passionate about software engineering and technology innovation
+I’m a Computer Science student at the University of Kansas. I'm interested in software engineering and technology innovation
 
 ### 🛠️ **Skills & Technologies**
 - **Programming Languages**: Python, C, C++, C#, PowerShell, SQL, JavaScript, HTML/CSS, MATLAB
