@@ -1,15 +1,5 @@
-# Hello! 👋 My name is Nifemi Lawal
+Hello, my name is Nifemi Lawal. I'm a Computer Science student at the University of Kansas. I am a creative individual who enjoys solving problems and bringing ideas to life through technology. I have experience with Python, C, C++, C#, HTML/CSS, and JavaScript, as well as working with frameworks like Flask and Express.js. My experience also includes working with REST APIs, WebSocket, SQLite, and tools like Postman for testing and development.
 
-### Welcome to my GitHub profile!
+Beyond software, I tackle technical challenges in 3D printing and mechanical design, utilizing tools like Fusion360 and SolidWorks.
 
-I’m a Computer Science student at the University of Kansas. I'm interested in software engineering and technology innovation
-
-### 🛠️ **Skills & Technologies**
-- **Programming Languages**: Python, C, C++, C#, PowerShell, SQL, JavaScript, HTML/CSS, MATLAB
-- **Frameworks & Libraries**: Flask, Bootstrap, Plotly, Pandas
-- **Tools**: Git, Github, Azure DevOps 
-- **Other**: 3D Printing, Mechanical Design, Fusion360, SolidWorks
-
-### 📫 **Get in touch with me**
-- **Email**: lawalwaryth@gmail.com
-- **LinkedIn**: linkedin.com/in/nifemi-lawal
+Feel free to reach out at lawalwaryth@gmail.com or connect on LinkedIn at linkedin.com/in/nifemi-lawal.
