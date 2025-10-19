@@ -1,1 +1,1 @@
-Hello, my name is Nifemi Lawal. I'm a Computer Science student at the University of Kansas. I enjoy solving problems and bringing ideas to life. I have experience with Python, C, C++, C#, HTML/CSS, SQL, MATLAB, and JavaScript.
+
