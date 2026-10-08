@@ -1,4 +1,4 @@
-Hello! My name is Nifemi, and I studied Computer Science at the University of Kansas, where I also received an undergraduate certificate in cybersecurity. I’m interested in building software with users in mind. I enjoy the challenge of taking an idea from concept to deployment and figuring out how all the pieces fit together.
+Hello! My name is Nifemi, and I studied Computer Science at the University of Kansas, where I also earned an undergraduate certificate in cybersecurity. I enjoy the challenge of taking an idea from concept to deployment and figuring out how all the pieces fit together.
 
 Most of my experience is in Python, C#, HTML/CSS, JavaScript, TypeScript, and SQL. I’ve worked with tools like Git, Postman, AWS, and Azure DevOps, and I enjoy working with REST APIs, automation scripts, and CI/CD pipelines.
 
